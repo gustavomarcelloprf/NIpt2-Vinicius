@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".InformacoesActivity">
+
+    <TextView
+        android:id="@+id/txtSalarioBruto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Salário Bruto: "
+        android:textSize="16sp"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:id="@+id/txtDescontoINSS"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Desconto INSS: "
+        android:textSize="16sp"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:id="@+id/txtDescontoFGTS"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Desconto FGTS: "
+        android:textSize="16sp"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:id="@+id/txtSalarioLiquido"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Salário Líquido: "
+        android:textSize="16sp"
+        android:layout_marginBottom="16dp"/>
+
+    <TextView
+        android:id="@+id/txtMedia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Média: "
+        android:textSize="16sp"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:id="@+id/txtStatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Status: "
+        android:textSize="16sp"
+        android:layout_marginBottom="16dp"/>
+
+    <TextView
+        android:id="@+id/txtPeso"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Peso: "
+        android:textSize="16sp"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:id="@+id/txtAltura"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Altura: "
+        android:textSize="16sp"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:id="@+id/txtIMC"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="IMC: "
+        android:textSize="16sp"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:id="@+id/txtClassificacao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Classificação: "
+        android:textSize="16sp"
+        android:layout_marginBottom="16dp"/>
+
+</LinearLayout>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edtSalario" type="id" />
+    <item name="btnCalcular" type="id" />
+    <item name="txtSalarioBruto" type="id" />
+    <item name="txtDescontoINSS" type="id" />
+    <item name="txtDescontoFGTS" type="id" />
+    <item name="txtSalarioLiquido" type="id" />
+    <item name="btnLimpar" type="id" />
+    <item name="btnEncerrar" type="id" />
+    <item name="edtNI1" type="id" />
+    <item name="edtNI2" type="id" />
+    <item name="edtPI" type="id" />
+    <item name="edtPO" type="id" />
+    <item name="txtMedia" type="id" />
+    <item name="txtStatus" type="id" />
+    <item name="edtPeso" type="id" />
+    <item name="edtAltura" type="id" />
+    <item name="txtPeso" type="id" />
+    <item name="txtAltura" type="id" />
+    <item name="txtIMC" type="id" />
+    <item name="txtClassificacao" type="id" />
+</resources>
